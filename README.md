@@ -1,6 +1,6 @@
 # Stay Booker Pro
 
-Stay Booker Pro is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/iZooGooD/stay-booker-hotel-booking-express-api)
+Stay Booker Pro is a production-ready hotel booking website built with modern web technologies. It is designed to be a fully functional and responsive web application for hotel booking services. For the backend api checkout: [staybooker-express-api](https://github.com/mangaldeeep/HotelBookingUsingReact.git)
 
 ## Key Features
 
@@ -25,7 +25,7 @@ These instructions will get you a copy of the project up and running on your loc
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/iZooGooD/stay-booker-pro.git
+   https://github.com/mangaldeeep/HotelBookingUsingReact.git
    ```
 
 2. Navigate to the project directory:
